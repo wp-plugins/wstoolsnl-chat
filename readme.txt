@@ -1,7 +1,7 @@
 === Plugin Name ===
 Plugin Name: WStools.nl - Chat
 Plugin URI: http://wstools.nl/
-Description: Chat module van WStools.nl
+Description: Chat direct met uw bezoekers met de live chat support plugin van WStools.nl
 Version: 1.0
 Author: WStools.nl
 Author URI: http://wstools.nl/
